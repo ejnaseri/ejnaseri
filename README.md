@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Eraj Naseri 👋</h1>
 
 <h3 align="center">Full-Stack Developer | Building Business Software, ERP & Desktop Applications</h3>
@@ -125,4 +124,3 @@ I'm currently focused on building production-ready business applications with cl
 <p align="center">
   <strong>Building software that solves real business problems.</strong>
 </p>
-```
