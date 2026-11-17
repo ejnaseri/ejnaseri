@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Eraj Naseri 👋</h1>
-
-<h3 align="center">Full-Stack Developer | Building Business Software, ERP & Desktop Applications</h3>
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Eraj Naseri - Full-Stack Software Developer" width="100%" />
+</p>
 
 <p align="center">
   I build practical, reliable software solutions focused on real-world business needs.
