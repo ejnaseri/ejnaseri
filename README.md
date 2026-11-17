@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Eraj Naseri - Full-Stack Software Developer" width="100%" />
+  <img src="./assets/Modern%20GitHub%20Developer%20Profile%20Banner.png" alt="Eraj Naseri - Full-Stack Software Developer" width="100%" />
 </p>
+
 
 <p align="center">
   I build practical, reliable software solutions focused on real-world business needs.
